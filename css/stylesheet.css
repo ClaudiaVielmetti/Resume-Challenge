@@ -1,14 +1,27 @@
 body{
-  font-family: sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size:110%;
   background-color: #FCF7F8;
 }
 
 header {
   text-align: center;
+  background-color: lightsteelblue;
+  font-family: 'Courier New', Courier, monospace;
+  font-size:130%;
 }
 
 footer {
-  background-color: #343330;
+  background-color: lightsteelblue;
   text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 115%;
+}
+
+#sidebar{
+background-color: lightblue;
+width:30%
+}
+.nav-menu{
+  list-style-type: none;
 }
