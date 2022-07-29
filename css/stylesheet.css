@@ -52,6 +52,11 @@ footer {
   color: white;
 }
 
+
+
+
+
+
 #sidebar{
 background-color: #00B2CA;
 padding: 2rem;
@@ -69,5 +74,17 @@ width:30%
   margin: 1.5rem;
   width: 5%;
   height: auto;
+  
 }
 
+.imgLink{
+    text-decoration: none !important;
+  }
+
+.imgLink2{
+  text-decoration: none !important;
+}
+
+.imgLink3{
+  text-decoration: none !important;
+}
