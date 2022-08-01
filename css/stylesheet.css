@@ -67,6 +67,8 @@ width:30%
 .nav-menu{
   list-style-type: none;
   padding: 0%;
+ 
+
 }
 
 .icons{
@@ -88,3 +90,8 @@ width:30%
 .imgLink3{
   text-decoration: none !important;
 }
+
+h3{
+  text-decoration: underline;
+}
+
